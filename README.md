@@ -13,7 +13,7 @@ Input: In the first line you have n, which shows the number of beautiful words. 
 |Sample Input | Output |
 |:---------------------------------------------------|:-------:|
 |1<br>10<br>aa                                       |10.000000|
-|4<br>2<br>3<br>4<br>5<br>abb<br>bba<br>aab<br>baa   |3.500000|
+|4<br>2 3 4 5<br>abb<br>bba<br>aab<br>baa   |3.500000|
 
 
 **Note: Only around 16% of students could solve this problem 100% correctly for all of the test cases**
